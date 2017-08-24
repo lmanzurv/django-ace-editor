@@ -1,0 +1,41 @@
+#ace-editor {
+    height: 20em;
+    font-size: 14px !important;
+}
+
+#ace-editor div {
+    font-size: 14px !important;
+}
+
+.ace_search {
+    background-color: #eee;
+}
+
+.ace_searchbtn_close {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAcCAYAAABRVo5BAAAAZ0lEQVR42u2SUQrAMAhDvazn8OjZBilCkYVVxiis8H4CT0VrAJb4WHT3C5xU2a2IQZXJjiQIRMdkEoJ5Q2yMqpfDIo+XY4k6h+YXOyKqTIj5REaxloNAd0xiKmAtsTHqW8sR2W5f7gCu5nWFUpVjZwAAAABJRU5ErkJggg==) !important;
+    width: 14px !important;
+    padding: 0 !important;
+    border-radius: 50% !important;
+    border: 0 none !important;
+    color: #656565 !important;
+}
+
+.ace_searchbtn {
+    width: 27px !important;
+    padding: 0 !important;
+    color: initial !important;
+}
+
+.ace_searchbtn.next {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADRJREFUeNpiTE1NZQCC/0DMyIAKwGJMUAYDEo3M/s+EpvM/mkKwCQxYjIeLMaELoLMBAgwAU7UJObTKsvAAAAAASUVORK5CYII=) !important;
+}
+
+.ace_searchbtn.prev {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAADFJREFUeNpiSU1NZUAC/6E0I0yACYskCpsJiySKIiY0SUZk40FyTEgCjGgKwTRAgAEAQJUIPCE+qfkAAAAASUVORK5CYII=) !important;
+}
+
+.ace_search_field {
+    border: 0 none !important;
+    padding: 0 7px !important;
+    border-radius: 0;
+}
